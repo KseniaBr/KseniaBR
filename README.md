@@ -11,4 +11,4 @@
 
 ###
 
-<p align="left">Latest project: 🐶🐱🐭<a href="https://github.com/MrburnsDAOC/dci-final-project">dci-final-project</a></p> 
+<p align="left">Latest project:<a href="https://github.com/MrburnsDAOC/dci-final-project">🐶 dci-final-project</a></p> 
