@@ -3,7 +3,7 @@
 ###
 
 
-<p align="left">💻 Frontend Developer since 2023<br>📚 I'm currently learning TypeScript<br>🎯 Goals: Learn Vue.js<br>🎲 </p>
+<p align="left">💻 Frontend Developer since 2023<br>📚 I'm currently learning TypeScript<br>🎯 Goals: Learn Vue.js<br></p>
 
 ###
 
