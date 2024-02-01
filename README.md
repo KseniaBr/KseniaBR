@@ -1,4 +1,4 @@
-<h1 align="left">👋 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 Ksenia</h1>
+<h1 align="center">👋 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 Ksenia</h1>
 
 ###
 
@@ -7,7 +7,7 @@
 
 ###
 
-<h2 align="left">🔸My skills include HTML, CSS, JavaScript, MERN-Stack, Tailwind CSS and Bootstrap.</h2>
+<h2 align="center">🔸My skills include HTML, CSS, JavaScript, MERN-Stack, Tailwind CSS and Bootstrap.</h2>
 
 ###
 
