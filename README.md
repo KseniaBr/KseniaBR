@@ -7,7 +7,7 @@
 
 ###
 
-<h2 align="center">🔸My skills include HTML, CSS, JavaScript, MERN-Stack, Tailwind CSS and Bootstrap.</h2>
+<h2 align="left">My skills include HTML, CSS, JavaScript, MERN-Stack, Tailwind CSS and Bootstrap.</h2>
 
 ###
 
