@@ -7,8 +7,8 @@
 
 ###
 
-<h2 align="left">🔸My skills include HTML, CSS, JavaScript, MERN-Stack, Tailwind CSS and Bootstrap.🔸</h2>
+<h2 align="left">🔸My skills include HTML, CSS, JavaScript, MERN-Stack, Tailwind CSS and Bootstrap.</h2>
 
 ###
 
-<p align="left">🐶 Latest project:<a href="https://github.com/MrburnsDAOC/dci-final-project">dci-final-project</a></p> 
+<p align="left">🐶 Latest project: <a href="https://github.com/MrburnsDAOC/dci-final-project">dci-final-project</a></p> 
