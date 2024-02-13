@@ -12,6 +12,6 @@
 ###
 
 <p align="left">Latest projects: <br>
-<a href="https://github.com/MrburnsDAOC/dci-final-project">🐶 DCI-final-project</a> <br>
-<a href="https://github.com/KseniaBr/Tierheim-Manager">🐱 Tierheim-Manager</a>
+🐶<a href="https://github.com/MrburnsDAOC/dci-final-project">DCI-final-project</a><br>
+🐱<a href="https://github.com/KseniaBr/Tierheim-Manager">Tierheim-Manager</a>
 </p> 
